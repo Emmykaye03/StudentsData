@@ -1,0 +1,9 @@
+C:\Users\Emmers\source\repos\ContosoUniversityData\bin\Debug\ContosoUniversityData.dacpac
+C:\Users\Emmers\source\repos\ContosoUniversityData\bin\Debug\ContosoUniversityData.dll
+C:\Users\Emmers\source\repos\ContosoUniversityData\bin\Debug\ContosoUniversityData.pdb
+C:\Users\Emmers\source\repos\ContosoUniversityData\obj\Debug\Model.xml
+C:\Users\Emmers\source\repos\ContosoUniversityData\obj\Debug\refactor.xml
+C:\Users\Emmers\source\repos\ContosoUniversityData\obj\Debug\postdeploy.sql
+C:\Users\Emmers\source\repos\ContosoUniversityData\obj\Debug\predeploy.sql
+C:\Users\Emmers\source\repos\ContosoUniversityData\obj\Debug\ContosoUniversityData.dll
+C:\Users\Emmers\source\repos\ContosoUniversityData\obj\Debug\ContosoUniversityData.pdb
